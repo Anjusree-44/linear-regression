@@ -1,6 +1,64 @@
 # linear regression.py
+# 🏠 Linear Regression - Housing Price Prediction
+
+This project is part of an AI & ML Internship. The task is to implement and understand Simple and Multiple Linear Regression using Scikit-learn.
+
+## 📌 Objective
+Build a linear regression model to predict housing prices using the Housing.csv dataset from Kaggle.
+
+---
+
+## 📊 Dataset
+
+- **Source**: [Kaggle - Housing Price Prediction Dataset](https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction)
+- **Features**: Includes various housing attributes like area, bedrooms, bathrooms, etc.
+- **Target**: `price` (the price of the house)
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+---
+
+📈 Model Evaluation Metrics
+
+MAE: Mean Absolute Error
+
+MSE: Mean Squared Error
+
+RMSE: Root Mean Squared Error
+
+R² Score: Goodness of fit
+
+---
+
 ![3](https://github.com/user-attachments/assets/72b3e65f-c389-49f4-b3f9-109da2e7c9c1)
 
+---
+
+📚 What I Learned
+
+Performing basic data preprocessing
+
+Splitting data into training and testing sets
+
+Fitting linear regression models
+
+Visualizing regression performance
+
+Interpreting regression coefficients
+
+Evaluating model with MAE, MSE, RMSE, and R²
+
+----
+
+CODE:
 
 import pandas as pd
 import numpy as np
