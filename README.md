@@ -1,7 +1,5 @@
 # linear regression.py
 
-![3](https://github.com/user-attachments/assets/72b3e65f-c389-49f4-b3f9-109da2e7c9c1)
-
 ---
 
 # Dataset
@@ -73,3 +71,6 @@ coefficients = pd.DataFrame({
     'Coefficient': model.coef_
 })
 print("\nModel Coefficients:\n", coefficients)
+
+![3](https://github.com/user-attachments/assets/72b3e65f-c389-49f4-b3f9-109da2e7c9c1)
+
