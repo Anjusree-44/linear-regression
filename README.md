@@ -1,11 +1,11 @@
 # linear regression.py
+![3](https://github.com/user-attachments/assets/72b3e65f-c389-49f4-b3f9-109da2e7c9c1)
+
 
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns![3](https://github.com/user-attachments/assets/72b3e65f-c389-49f4-b3f9-109da2e7c9c1)
-
-import os
+import seaborn as sns
 print("Current working directory:", os.getcwd())
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
